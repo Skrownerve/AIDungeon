@@ -4,6 +4,8 @@ My intent with this fork is to maintain a clean and stable copy of the excellent
 
 I will slowly move up through the updates to thadunge2 as I am able to test them for stability. If you would like to help with this testing, please ping me in the Discord server @Evren#1025.
 
+**If you are new to AI Dungeon, read my guide [here](https://docs.google.com/document/d/1b-FXpcU1v9OXoW8kW92PlcmWPIVGN-tAWbS-vfuve40/edit?usp=sharing)!**
+
 What follows are the available Colabs I have prepared for playing this fork:
 
 + Standard Colab: https://colab.research.google.com/drive/19_0khNTwlKGYfWRhm7-ZHUGlX3mX9AfD
