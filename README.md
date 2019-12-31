@@ -9,3 +9,5 @@ What follows are the available Colabs I have prepared for playing this fork:
 My to-do list:
 + Learn how to use requirements.txt to shorten install code cell
 + Finish this fork and release the initial, stable version
++ Add links to the guide and other resources
++ Potentially utilize the wiki
