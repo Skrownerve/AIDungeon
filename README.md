@@ -5,3 +5,7 @@ My intent with this fork is to maintain a clean and stable copy of the excellent
 I will slowly move up through the updates to thadunge2 as I am able to test them for stability. If you would like to help with this testing, please ping me in the Discord server @Evren#1025.
 
 What follows are the available Colabs I have prepared for playing this fork:
+
+My to-do list:
++ Learn how to use requirements.txt to shorten install code cell
++ Finish this fork and release the initial, stable version
