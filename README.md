@@ -13,9 +13,5 @@ What follows are the available Colabs I have prepared for playing this fork:
 + Screen Reader Optimized: https://colab.research.google.com/drive/1k9gyOeyS4fZE5zqlzg64pnY9yEzatzTQ
 
 My to-do list:
-+ Finish this fork and release the initial, stable version
-  + Add this fork to each of the three Colabs
-+ Learn how to use requirements.txt to shorten install code cell
-+ Add links to the guide and other resources
 + Potentially utilize the wiki
 + Play with the code to remove unnecessary features/add custom stuff to title image
