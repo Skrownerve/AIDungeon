@@ -4,6 +4,8 @@ All notable changes to AIDungeon will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+Evren's note: I'm just editing this to clean up the title. I will probably just merge new changelogs into this one as I work through commits as they are found to be stable.
+
 ## [[Unreleased]](https://github.com/AIDungeon/AIDungeon/compare/master...develop)
 
 ## [2.2.0] - 2019-12-19
