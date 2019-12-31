@@ -11,3 +11,4 @@ My to-do list:
 + Finish this fork and release the initial, stable version
 + Add links to the guide and other resources
 + Potentially utilize the wiki
++ Play with the code to remove unnecessary features/add custom stuff to title image
