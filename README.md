@@ -10,7 +10,7 @@ What follows are the available Colabs I have prepared for playing this fork:
 
 + Standard Colab: https://colab.research.google.com/drive/19_0khNTwlKGYfWRhm7-ZHUGlX3mX9AfD
 + Simplified Colab (recommended for trying out the fork with minimal effort): https://colab.research.google.com/drive/1caJXC3YlCl1qVliQ-Z84KByR04lCx70-
-+ Screen Reader Optimized: https://colab.research.google.com/drive/1k9gyOeyS4fZE5zqlzg64pnY9yEzatzTQ
++ Screen Reader Optimized (do not use unless you use a screen reader): https://colab.research.google.com/drive/1k9gyOeyS4fZE5zqlzg64pnY9yEzatzTQ
 
 My to-do list:
 + Potentially utilize the wiki
